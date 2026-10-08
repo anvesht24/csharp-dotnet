@@ -1,0 +1,14 @@
+C:\Users\saian\PersonalProjects\Csharp-dotnet\TransactionLog\bin\Debug\net8.0\TransactionLog.exe
+C:\Users\saian\PersonalProjects\Csharp-dotnet\TransactionLog\bin\Debug\net8.0\TransactionLog.deps.json
+C:\Users\saian\PersonalProjects\Csharp-dotnet\TransactionLog\bin\Debug\net8.0\TransactionLog.runtimeconfig.json
+C:\Users\saian\PersonalProjects\Csharp-dotnet\TransactionLog\bin\Debug\net8.0\TransactionLog.dll
+C:\Users\saian\PersonalProjects\Csharp-dotnet\TransactionLog\bin\Debug\net8.0\TransactionLog.pdb
+C:\Users\saian\PersonalProjects\Csharp-dotnet\TransactionLog\obj\Debug\net8.0\TransactionLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saian\PersonalProjects\Csharp-dotnet\TransactionLog\obj\Debug\net8.0\TransactionLog.AssemblyInfoInputs.cache
+C:\Users\saian\PersonalProjects\Csharp-dotnet\TransactionLog\obj\Debug\net8.0\TransactionLog.AssemblyInfo.cs
+C:\Users\saian\PersonalProjects\Csharp-dotnet\TransactionLog\obj\Debug\net8.0\TransactionLog.csproj.CoreCompileInputs.cache
+C:\Users\saian\PersonalProjects\Csharp-dotnet\TransactionLog\obj\Debug\net8.0\TransactionLog.dll
+C:\Users\saian\PersonalProjects\Csharp-dotnet\TransactionLog\obj\Debug\net8.0\refint\TransactionLog.dll
+C:\Users\saian\PersonalProjects\Csharp-dotnet\TransactionLog\obj\Debug\net8.0\TransactionLog.pdb
+C:\Users\saian\PersonalProjects\Csharp-dotnet\TransactionLog\obj\Debug\net8.0\TransactionLog.genruntimeconfig.cache
+C:\Users\saian\PersonalProjects\Csharp-dotnet\TransactionLog\obj\Debug\net8.0\ref\TransactionLog.dll
