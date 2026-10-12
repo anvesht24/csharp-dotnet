@@ -1,0 +1,15 @@
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentGradeTracker\bin\Debug\net8.0\StudentGradeTracker.exe
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentGradeTracker\bin\Debug\net8.0\StudentGradeTracker.deps.json
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentGradeTracker\bin\Debug\net8.0\StudentGradeTracker.runtimeconfig.json
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentGradeTracker\bin\Debug\net8.0\StudentGradeTracker.dll
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentGradeTracker\bin\Debug\net8.0\StudentGradeTracker.pdb
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentGradeTracker\obj\Debug\net8.0\StudentGradeTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentGradeTracker\obj\Debug\net8.0\StudentGradeTracker.AssemblyInfoInputs.cache
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentGradeTracker\obj\Debug\net8.0\StudentGradeTracker.AssemblyInfo.cs
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentGradeTracker\obj\Debug\net8.0\StudentGradeTracker.csproj.CoreCompileInputs.cache
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentGradeTracker\obj\Debug\net8.0\StudentGradeTracker.sourcelink.json
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentGradeTracker\obj\Debug\net8.0\StudentGradeTracker.dll
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentGradeTracker\obj\Debug\net8.0\refint\StudentGradeTracker.dll
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentGradeTracker\obj\Debug\net8.0\StudentGradeTracker.pdb
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentGradeTracker\obj\Debug\net8.0\StudentGradeTracker.genruntimeconfig.cache
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentGradeTracker\obj\Debug\net8.0\ref\StudentGradeTracker.dll
