@@ -37,7 +37,7 @@ while(true)
         foreach (decimal expense in expenses)
         {
             totalSpent+=expense;
-    
+
         }
         Console.WriteLine("Total:"+totalSpent);
     }

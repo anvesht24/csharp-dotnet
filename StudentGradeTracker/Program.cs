@@ -34,6 +34,7 @@ foreach (double g in grades)
         {
             Console.WriteLine(""+g);
         }
+
 Console.WriteLine($"The Highest Score is:{grades.Max()}");
 Console.WriteLine($"The Total Subjects are:{grades.Count()}");
 Console.WriteLine($"The Lowest scores is:{grades.Min()}");

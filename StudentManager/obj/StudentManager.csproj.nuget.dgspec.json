@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saian\\PersonalProjects\\C#Programming\\ExpenseTrackerCLI\\ExpenseTrackerCLI.csproj": {}
+    "C:\\Users\\saian\\PersonalProjects\\Csharp-dotnet\\StudentManager\\StudentManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saian\\PersonalProjects\\C#Programming\\ExpenseTrackerCLI\\ExpenseTrackerCLI.csproj": {
+    "C:\\Users\\saian\\PersonalProjects\\Csharp-dotnet\\StudentManager\\StudentManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saian\\PersonalProjects\\C#Programming\\ExpenseTrackerCLI\\ExpenseTrackerCLI.csproj",
-        "projectName": "ExpenseTrackerCLI",
-        "projectPath": "C:\\Users\\saian\\PersonalProjects\\C#Programming\\ExpenseTrackerCLI\\ExpenseTrackerCLI.csproj",
+        "projectUniqueName": "C:\\Users\\saian\\PersonalProjects\\Csharp-dotnet\\StudentManager\\StudentManager.csproj",
+        "projectName": "StudentManager",
+        "projectPath": "C:\\Users\\saian\\PersonalProjects\\Csharp-dotnet\\StudentManager\\StudentManager.csproj",
         "packagesPath": "C:\\Users\\saian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saian\\PersonalProjects\\C#Programming\\ExpenseTrackerCLI\\obj\\",
+        "outputPath": "C:\\Users\\saian\\PersonalProjects\\Csharp-dotnet\\StudentManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saian\\AppData\\Roaming\\NuGet\\NuGet.Config"

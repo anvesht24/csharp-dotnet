@@ -1,0 +1,15 @@
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentManager\obj\Debug\net8.0\StudentManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentManager\obj\Debug\net8.0\StudentManager.AssemblyInfoInputs.cache
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentManager\obj\Debug\net8.0\StudentManager.AssemblyInfo.cs
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentManager\obj\Debug\net8.0\StudentManager.csproj.CoreCompileInputs.cache
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentManager\obj\Debug\net8.0\StudentManager.sourcelink.json
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentManager\bin\Debug\net8.0\StudentManager.exe
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentManager\bin\Debug\net8.0\StudentManager.deps.json
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentManager\bin\Debug\net8.0\StudentManager.runtimeconfig.json
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentManager\bin\Debug\net8.0\StudentManager.dll
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentManager\bin\Debug\net8.0\StudentManager.pdb
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentManager\obj\Debug\net8.0\StudentManager.dll
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentManager\obj\Debug\net8.0\refint\StudentManager.dll
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentManager\obj\Debug\net8.0\StudentManager.pdb
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentManager\obj\Debug\net8.0\StudentManager.genruntimeconfig.cache
+C:\Users\saian\PersonalProjects\Csharp-dotnet\StudentManager\obj\Debug\net8.0\ref\StudentManager.dll
