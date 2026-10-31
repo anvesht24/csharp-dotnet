@@ -1,0 +1,15 @@
+C:\Users\saian\PersonalProjects\Csharp-dotnet\InventoryManager\obj\Debug\net8.0\InventoryManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saian\PersonalProjects\Csharp-dotnet\InventoryManager\obj\Debug\net8.0\InventoryManager.AssemblyInfoInputs.cache
+C:\Users\saian\PersonalProjects\Csharp-dotnet\InventoryManager\obj\Debug\net8.0\InventoryManager.AssemblyInfo.cs
+C:\Users\saian\PersonalProjects\Csharp-dotnet\InventoryManager\obj\Debug\net8.0\InventoryManager.csproj.CoreCompileInputs.cache
+C:\Users\saian\PersonalProjects\Csharp-dotnet\InventoryManager\obj\Debug\net8.0\InventoryManager.sourcelink.json
+C:\Users\saian\PersonalProjects\Csharp-dotnet\InventoryManager\bin\Debug\net8.0\InventoryManager.exe
+C:\Users\saian\PersonalProjects\Csharp-dotnet\InventoryManager\bin\Debug\net8.0\InventoryManager.deps.json
+C:\Users\saian\PersonalProjects\Csharp-dotnet\InventoryManager\bin\Debug\net8.0\InventoryManager.runtimeconfig.json
+C:\Users\saian\PersonalProjects\Csharp-dotnet\InventoryManager\bin\Debug\net8.0\InventoryManager.dll
+C:\Users\saian\PersonalProjects\Csharp-dotnet\InventoryManager\bin\Debug\net8.0\InventoryManager.pdb
+C:\Users\saian\PersonalProjects\Csharp-dotnet\InventoryManager\obj\Debug\net8.0\InventoryManager.dll
+C:\Users\saian\PersonalProjects\Csharp-dotnet\InventoryManager\obj\Debug\net8.0\refint\InventoryManager.dll
+C:\Users\saian\PersonalProjects\Csharp-dotnet\InventoryManager\obj\Debug\net8.0\InventoryManager.pdb
+C:\Users\saian\PersonalProjects\Csharp-dotnet\InventoryManager\obj\Debug\net8.0\InventoryManager.genruntimeconfig.cache
+C:\Users\saian\PersonalProjects\Csharp-dotnet\InventoryManager\obj\Debug\net8.0\ref\InventoryManager.dll
