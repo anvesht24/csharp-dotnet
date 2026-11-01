@@ -1,6 +1,5 @@
 
 using InventoryManager;
-
 Console.WriteLine("Inventory Manager");
 List<Product> products = new List<Product>();
 while (true)
@@ -24,20 +23,27 @@ while (true)
         else{System.Console.WriteLine("Enter a valid number");}
         
         products.Add(new Product(nameinput,price,quantity));
-        System.Console.WriteLine(products);
 
     }
     
     else if (confirmation== "no")break;
+
     else{System.Console.WriteLine("Enter a valid input: Just 'yes'/'no'");}
-    for(int i=0; i<products.Count;i++)
-    {
-        System.Console.WriteLine($"Item:{products[i].Name} Price: {products[i].Price} Quantity:{products[i].StockQuantity} ");
-        
-    }
     
+
+}
+double   sum = 0;
+for(int i=0; i<products.Count;i++)
+{
+    System.Console.WriteLine($"Item:{products[i].Name} Price: {products[i].Price} Quantity:{products[i].StockQuantity} ");
     
+    sum=sum+products[i].Price * products[i].StockQuantity;
+
 }
 
-
+double maxValue=products.Max(p=>p.Price);
 System.Console.WriteLine("Thank you");
+System.Console.WriteLine($"Total count of the items in stock:{products.Count}");
+System.Console.WriteLine($"Total Value of the items in stock:{sum}");
+System.Console.WriteLine($"Expensive Item Value of all the items in stock:{maxValue}");
+   
