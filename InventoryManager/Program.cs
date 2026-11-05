@@ -26,12 +26,12 @@ while (true)
         
         System.Console.WriteLine("Enter the discount percentage");
         string discountinput=Console.ReadLine()??"";
-        if (double.TryParse(discountinput, out double discount)){}
+        if (double.TryParse(discountinput, out double discount)&& discount>0 && discount<=100){}
         else{System.Console.WriteLine("Enter the valid discount percentage");}
 
 
         products.Add(new Product(nameinput,price,quantity,discount));
-
+        
     }
 
     
