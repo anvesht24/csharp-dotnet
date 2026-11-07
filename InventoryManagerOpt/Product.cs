@@ -12,5 +12,11 @@ public class Product
         Price=pprice;
         Quantity=pquantity;
     }
+     public virtual void DisplayInventory()
+    {
+        
+            System.Console.WriteLine($"Item namegjgjgh:{Name}");
+        
+    }
 
 }

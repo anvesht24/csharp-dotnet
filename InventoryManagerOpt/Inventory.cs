@@ -18,7 +18,7 @@ public class Inventory
     {
         double sum= 0;
         foreach(var product in _products){
-           sum =+ product.Price;
+           sum += product.Price;
            
         }
         return sum;

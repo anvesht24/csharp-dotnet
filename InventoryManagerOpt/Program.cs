@@ -1,9 +1,7 @@
 ﻿using  InventoryManagerOpt;
 
 Inventory OldInventory=new Inventory();
-OldInventory.AddProduct(new Product("Laptop", 50, 9));
-OldInventory.AddProduct(new Product("Mouse", 40, 4));
-OldInventory.AddProduct(new Product("Laptop", 50, 8));
+OldInventory.AddProduct(new PhysicalProd("Laptop", 50, 9,50));
 
 
 
