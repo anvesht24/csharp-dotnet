@@ -8,8 +8,8 @@ public class PhysicalProd:Product
     {
         Weight=pweight;
     } 
-    public override void DisplayInventory()
-    {
-            System.Console.WriteLine($"Item name:{Name}and {Weight}");
-    }
+    public override void DisplayInfo()
+        {
+            Console.WriteLine($"[Physical] {Name} | Price: ${Price} | Weight: {Weight}kg");
+        }
 }

@@ -7,11 +7,11 @@ public class Inventory
     {
         _products.Add(product);
     }
-    public void DisplayInventory()
+    public virtual void DisplayInventory()
     {
         foreach(var product in _products)
         {
-            System.Console.WriteLine($"Item name:{product.Name}");
+            product.DisplayInfo();
         }
     }
     public  double GetTotalInventoryValue()
