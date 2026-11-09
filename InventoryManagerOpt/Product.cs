@@ -1,19 +1,16 @@
 namespace InventoryManagerOpt;
 
-public class Product
+public abstract class Product
 {
     public string Name{get;set;}
     public double Price{get;set;}
     public double Quantity{get;set;}
 
-    public Product(string pname,double pprice, double pquantity)
+    protected Product(string pname,double pprice, double pquantity)
     {
         Name=pname;
         Price=pprice;
         Quantity=pquantity;
     }
-    public virtual void DisplayInfo()
-        {
-            Console.WriteLine($"Item: {Name} | Price: ${Price}");
-        }
+    public abstract void DisplayInfo();
 }
