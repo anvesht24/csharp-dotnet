@@ -11,3 +11,5 @@ OldInventory.DisplayInventory();
 double total=OldInventory.GetTotalInventoryValue();
 System.Console.WriteLine($"Total Value of the inventory is:{total}");
 
+List<Product> myInventory=InventoryRepository.LoadInventory();
+InventoryRepository.SaveInventory(myInventory);
