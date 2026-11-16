@@ -1,6 +1,6 @@
 namespace InventoryManagerOpt;
 
-public class PhysicalProd:Product, IDiscountable
+public class PhysicalProd:Product, IDiscountable, IShippable
 {
     public double Weight{get;set;}
     
@@ -20,6 +20,15 @@ public class PhysicalProd:Product, IDiscountable
         {
             _discountMultiplier =1.0-(percent/100.0);
         }    
+    }
+    public double GetShippingWeight()
+    {
+        return Weight;
+
+    }
+    public double GetShippingCost()
+    {
+        return 10.0 + (Weight * 2);
     }
     public double GetDiscountedPrice()
     {
